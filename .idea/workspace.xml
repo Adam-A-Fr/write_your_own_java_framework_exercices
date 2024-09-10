@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74bd28e4-ede9-4bbb-a92f-dae249a45c06" name="Changes" comment="update IntelliJ files">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapper/src/main/java/com/github/forax/framework/mapper/JSONWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/mapper/src/main/java/com/github/forax/framework/mapper/JSONWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapper/src/test/java/com/github/forax/framework/mapper/JSONWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mapper/src/test/java/com/github/forax/framework/mapper/JSONWriterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Adam-A-Fr"
+  }
+}]]></component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -25,6 +34,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Adam-A-Fr/write_your_own_java_framework_exercices.git",
+    "accountId": "2db94166-69a8-4f79-ae1f-606104efcc35"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,23 +54,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/forax/git/write_your_own_java_framework_exercices/interceptor",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.JSONWriterTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/abadaa/git/write_your_own_java_framework_exercices&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/interceptor" />
@@ -78,7 +97,7 @@
       <command value="mvn package" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InjectorRegistryTest">
+  <component name="RunManager" selected="JUnit.JSONWriterTest">
     <configuration name="InjectorRegistryTest$Q1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="injector" />
       <extension name="coverage">
@@ -124,21 +143,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JSONWriterTest$Q1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mapper" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.forax.framework.mapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.github.forax.framework.mapper.JSONWriterTest" />
-      <option name="MAIN_CLASS_NAME" value="com.github.forax.framework.mapper.JSONWriterTest$Q1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JSONWriterTest$Q2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mapper" />
       <extension name="coverage">
@@ -154,17 +158,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JSONWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mapper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.forax.framework.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.forax.framework.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.github.forax.framework.mapper.JSONWriterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JSONWriterTest" />
         <item itemvalue="JUnit.InjectorRegistryTest" />
         <item itemvalue="JUnit.InjectorRegistryTest$Q2" />
         <item itemvalue="JUnit.InjectorRegistryTest$Q1" />
         <item itemvalue="JUnit.JSONWriterTest$Q2" />
-        <item itemvalue="JUnit.JSONWriterTest$Q1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74bd28e4-ede9-4bbb-a92f-dae249a45c06" name="Changes" comment="update IntelliJ files" />
+      <created>1725953885189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725953885189</updated>
+      <workItem from="1725953886838" duration="386000" />
+      <workItem from="1725955024381" duration="537000" />
+      <workItem from="1725955726406" duration="1029000" />
+      <workItem from="1725956880968" duration="5623000" />
+    </task>
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
