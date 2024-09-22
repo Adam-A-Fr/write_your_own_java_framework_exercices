@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74bd28e4-ede9-4bbb-a92f-dae249a45c06" name="Changes" comment="update IntelliJ files">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapper/src/main/java/com/github/forax/framework/mapper/JSONWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/mapper/src/main/java/com/github/forax/framework/mapper/JSONWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapper/src/test/java/com/github/forax/framework/mapper/JSONWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mapper/src/test/java/com/github/forax/framework/mapper/JSONWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +16,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Adam-A-Fr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Adam-A-Fr&quot;
   }
-}]]></component>
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -34,12 +30,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:Adam-A-Fr/write_your_own_java_framework_exercices.git",
-    "accountId": "2db94166-69a8-4f79-ae1f-606104efcc35"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Adam-A-Fr/write_your_own_java_framework_exercices.git&quot;,
+    &quot;accountId&quot;: &quot;2db94166-69a8-4f79-ae1f-606104efcc35&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -203,6 +199,9 @@
       <workItem from="1725955024381" duration="537000" />
       <workItem from="1725955726406" duration="1029000" />
       <workItem from="1725956880968" duration="5623000" />
+      <workItem from="1726046867706" duration="201000" />
+      <workItem from="1726433508155" duration="2283000" />
+      <workItem from="1726728411983" duration="29000" />
     </task>
     <servers />
   </component>
